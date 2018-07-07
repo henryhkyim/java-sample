@@ -1,2 +1,2 @@
-# my-java-lib
-Repository for keeping java utility libraries
+# my-java-sample
+Repository for keeping java sample for different components
